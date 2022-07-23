@@ -1,0 +1,5 @@
+Variables : Es el nombre que se le asigna a un valor o significado, existen diferentes tipos de variables tales como las constantes las cuales asignan el 
+Strings : Son bloques de texto que se indican entre comillas 
+Funciones : Son acciones que se realizan cuando se les invoca atraves de texto, los argumentos son las variables que se le asignan a estas funciones
+Declaraciones : If, es una condicional que dictamina si el resultado sera uno u otro.
+Valores booleanos : Son los que indican si un valor es verdadero o falso.
