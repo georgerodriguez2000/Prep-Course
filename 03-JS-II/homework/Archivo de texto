@@ -1,0 +1,4 @@
+Explicacion
+* `for` : Evalua las variables expresadas en un bucle como condicional
+* `&&`, `||`, `!` : Son operadores logicos "&&" es "AND" en ingles, es decir "Y" en español, "||" es "OR" en ingles, es decir "O" en español
+y "!" es "NOT" en ingles, que en español quiere decir "NO", y tienen sus funciones relacionadas a su significado con variabilidad de true o false
