@@ -1,0 +1,2 @@
+Protoype: Es una plantilla de acceso de metodos
+Constructor: Es una creacion de plantilla que comparte las mismas propiedades en muchos objetos
