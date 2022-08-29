@@ -1,0 +1,1 @@
+Callbacks:Es pasar un argumento a una funcion a otra funcion
